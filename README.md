@@ -1,6 +1,3 @@
-Here’s a draft of the README file for your PySpark Customer Segmentation project:
-
----
 
 # Customer Segmentation using PySpark
 
